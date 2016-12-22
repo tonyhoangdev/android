@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.tonyhoang.helloworld.MainActivity" >
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"></item>
+    <item android:id="@+id/menu2" android:title="@string/menu2"></item>
+</menu>
